@@ -1,0 +1,28 @@
+
+body {
+     background-color: lightblue;
+}
+h1{
+    text-align: center;
+    border-style: solid;
+    color: black;
+}
+h3{
+    text-align: center;
+    text-decoration: underline;
+    font-style: italic;
+    color: black;
+}
+p{
+    text-align: center;
+    color: black;
+}
+a:link, a:visited {
+    
+  color: #10707f;
+  padding: 20px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-weight: 900
+}

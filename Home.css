@@ -1,0 +1,22 @@
+body{
+    background-image: url(home_back.jpeg)
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 60px;
+}
+a:link, a:visited {
+    
+    background-color: red;
+  color: black;
+  padding: 30px 50px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-weight: 900
+    
+}
+h2{
+    text-align: center;
+}

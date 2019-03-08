@@ -1,0 +1,53 @@
+body{
+    background-image: url(consult_back.jpg);
+}
+h1{
+    text-align: center;
+    border-style: solid;
+}
+.About{
+    text-align: left;
+}
+h3{
+    text-align: lef;
+}
+a:link, a:visited {
+    
+    background-color: grey;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+    
+    
+}
+
+div{
+    text-align: center;
+    border-bottom: double;
+}
+h2{
+    font-size: 35px;
+    text-decoration: underline;
+    text-align: center
+}
+p{
+    font-size: 20px;
+    font-style: normal;
+}
+h4{
+    font-size: 35px;
+    text-decoration: underline;
+    text-align: center
+}
+h5{
+    font-size: 35px;
+    text-decoration: underline;
+    text-align: center
+}
+
+
+    
+   
+
