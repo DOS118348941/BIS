@@ -18,7 +18,7 @@
         <br>
         <div><h2><a href="ebus1.php">EBusiness</a></h2></div>
         <br>
-        <div><h2><a href="http://localhost:8000/Home.html">Heroku</a></h2></div>
+        <div><h2><a href="https://dos-phpproject10.herokuapp.com/">Heroku</a></h2></div>
         
 
     </body>
