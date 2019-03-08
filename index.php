@@ -1,17 +1,25 @@
 <!DOCTYPE html>
-<!--
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
--->
+
 <html>
     <head>
+        
+         <link rel="stylesheet" type="text/css" href="Home.css">
+        <title>Home</title>
         <meta charset="UTF-8">
-        <title></title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
     <body>
-        <?php
-        // put your code here
-        ?>
+        <h1>Home</h1>
+        <br>
+        
+        <div><h2><a href="NewCV.html">My CV</a></h2></div>  <div>
+        <br>
+        <div><h2><a href="Interests.html">Interests</a></h2></div>
+        <br>
+        <div><h2><a href="ebus1.php">EBusiness</a></h2></div>
+        <br>
+        <div><h2><a href="http://localhost:8000/Home.html">Heroku</a></h2></div>
+        
+
     </body>
 </html>
